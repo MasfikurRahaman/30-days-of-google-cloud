@@ -1,6 +1,6 @@
 # 30 Days of Google Cloud - Log
 
-### Day 0: Sept 30, 2020
+## Day 0: Sept 30, 2020
 
 **Today's Progress**: 
 - Got to know about Qwiklabs and the Google Cloud Platform Console
