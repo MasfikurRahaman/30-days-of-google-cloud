@@ -11,6 +11,6 @@ Sept 30th, 2020.
 2. I will put the respective resource links in the [Log](log.md) with my progress, however you must be enrolled in the program in order to use those recources. For more details about this program, Ping Me on [LinkedIn](https://www.linkedin.com/in/seshaihari/)
 
 ## Contents
-* [Readme](readme.md)
+* [Readme](README.md)
 * [Log - click here to see my progress](log.md)
 
