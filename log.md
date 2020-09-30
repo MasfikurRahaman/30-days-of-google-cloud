@@ -20,3 +20,10 @@
  **Links** 
  - [A Tour of Qwiklabs and Google Cloud](https://google.qwiklabs.com/focuses/2794?parent=catalog)
  - [Creating a Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+
+
+## Contents
+
+* [Readme](README.md)
+* [Rules](rules.md)
+
