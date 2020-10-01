@@ -22,6 +22,21 @@
  - [Creating a Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
 
 
+## Day 1: Oct 1, 2020
+
+**Today's Progress**:
+- Connecting to Computing Resources using GCP
+- How to use the Cloud Shell and Cloud SDK gcloud commands
+- Learning About Kubernetes and Docker and DevOps Technology
+  - Organisation
+  - Architecturing
+  - Containerising
+- Google Kubernetes Engine (GKE)
+
+**Links**
+- [Getting Started with Cloud Shell & gcloud](https://google.qwiklabs.com/focuses/563?parent=catalog)
+- [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+
 ## Contents
 
 * [Readme](README.md)
