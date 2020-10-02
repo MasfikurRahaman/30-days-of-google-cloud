@@ -37,7 +37,7 @@
 - [Getting Started with Cloud Shell & gcloud](https://google.qwiklabs.com/focuses/563?parent=catalog)
 - [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
-## Day 2: Oct 2, 202
+## Day 2: Oct 2, 2020
 
 **Today's Progress**:
 - Understanding and Learning About Docker and its Implementation
