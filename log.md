@@ -37,6 +37,20 @@
 - [Getting Started with Cloud Shell & gcloud](https://google.qwiklabs.com/focuses/563?parent=catalog)
 - [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
+## Day 2: Oct 2, 202
+
+**Today's Progress**:
+- Understanding and Learning About Docker and its Implementation
+- Kuberenetes and its working
+- Kubernetes Engine
+  - Deploying
+  - Managing
+  - Scaling containerized applications
+  
+**Links**
+- [Docker- Hands On Lab](https://www.youtube.com/watch?v=fqMOX6JJhGo&t=2003s)
+- [Kubernetes Engine: Qwik Start](https://google.qwiklabs.com/focuses/878?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
