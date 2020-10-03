@@ -51,6 +51,19 @@
 - [Docker- Hands On Lab](https://www.youtube.com/watch?v=fqMOX6JJhGo&t=2003s)
 - [Kubernetes Engine: Qwik Start](https://google.qwiklabs.com/focuses/878?parent=catalog)
 
+
+## Day 3: Oct 3, 2020
+
+**Today's Progress**:
+- Learning Kubernetes and Its Application
+- Load Balancers
+  - Network Load Balancers
+  - HTTP Load Balancers
+  
+**Links**
+- [Docker and Kubernetes Tutorial](https://www.youtube.com/watch?v=bhBSlnQcq2k&t=6513s)
+- [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
