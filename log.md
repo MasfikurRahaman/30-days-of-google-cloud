@@ -64,6 +64,17 @@
 - [Docker and Kubernetes Tutorial](https://www.youtube.com/watch?v=bhBSlnQcq2k&t=6513s)
 - [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog)
 
+
+## Day 4: Oct 4, 2020
+
+**Today's Progress**:
+- Completed the Create and Manage Cloud Resources - Challenge Lab
+- Earned the #1 Skill Badge - Create and Manage Cloud Resources
+  
+**Links**
+- [Getting Started: Create and Manage Cloud Resources: Challenge Lab](https://run.qwiklabs.com/focuses/10258?parent=catalog)
+- [Getting Started: Create and Manage Cloud Resources Skill Badge](https://run.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
+
 ## Contents
 
 * [Readme](README.md)
