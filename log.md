@@ -75,6 +75,16 @@
 - [Getting Started: Create and Manage Cloud Resources: Challenge Lab](https://run.qwiklabs.com/focuses/10258?parent=catalog)
 - [Getting Started: Create and Manage Cloud Resources Skill Badge](https://run.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
 
+## Day 5: Oct 5, 2020
+
+**Today's Progress**:
+- Perform Foundational Infrastructure Tasks in Google Cloud
+- Accessing and using Cloud Console for cloud Storage
+
+  
+**Links**
+- [Cloud Storage: Qwik Start - Cloud Console](https://www.qwiklabs.com/focuses/1760?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
