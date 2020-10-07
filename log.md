@@ -75,6 +75,7 @@
 - [Getting Started: Create and Manage Cloud Resources: Challenge Lab](https://run.qwiklabs.com/focuses/10258?parent=catalog)
 - [Getting Started: Create and Manage Cloud Resources Skill Badge](https://run.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
 
+
 ## Day 5: Oct 5, 2020
 
 **Today's Progress**:
@@ -84,6 +85,18 @@
   
 **Links**
 - [Cloud Storage: Qwik Start - Cloud Console](https://www.qwiklabs.com/focuses/1760?parent=catalog)
+
+
+## Day 6: Oct 6, 2020
+
+**Today's Progress**:
+- Buckets in cloud Storage
+- How to share and Use files form the Bucket Storage
+- gsutil Command-line tool
+
+  
+**Links**
+- [Cloud Storage: Qwik Start - CLI/SDK](https://www.qwiklabs.com/focuses/569?parent=catalog)
 
 ## Contents
 
