@@ -98,6 +98,18 @@
 **Links**
 - [Cloud Storage: Qwik Start - CLI/SDK](https://www.qwiklabs.com/focuses/569?parent=catalog)
 
+
+## Day 7: Oct 7, 2020
+
+**Today's Progress**:
+- Identity and Access Management
+- Multi User IAM roles
+- Storage Permissions and Access Roles
+
+  
+**Links**
+- [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
