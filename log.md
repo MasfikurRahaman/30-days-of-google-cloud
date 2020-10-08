@@ -110,6 +110,17 @@
 **Links**
 - [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog)
 
+
+## Day 8: Oct 8, 2020
+
+**Today's Progress**:
+- Monitoring the google compute engine VM instances
+- Uptime checkings
+- Alerting Policy
+  
+**Links**
+- [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
