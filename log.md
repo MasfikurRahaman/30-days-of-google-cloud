@@ -126,8 +126,8 @@
 
 **Today's Progress**:
 - Cloud Functions and its purpose
-- Create and Delpoy a Cloud Function using GCP
-- Create and Delpoy a Cloud Function using the Command Line
+- Create and Deploy a Cloud Function using GCP
+- Create and Deploy a Cloud Function using the Command Line
   
 **Links**
 - [Cloud Functions: Qwik Start - Console](https://www.qwiklabs.com/focuses/1763?parent=catalog)
