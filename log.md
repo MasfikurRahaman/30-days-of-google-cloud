@@ -121,6 +121,18 @@
 **Links**
 - [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog)
 
+
+## Day 9: Oct 9, 2020
+
+**Today's Progress**:
+- Cloud Functions and its purpose
+- Create and Delpoy a Cloud Function using GCP
+- Create and Delpoy a Cloud Function using the Command Line
+  
+**Links**
+- [Cloud Functions: Qwik Start - Console](https://www.qwiklabs.com/focuses/1763?parent=catalog)
+- [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
