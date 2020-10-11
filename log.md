@@ -133,6 +133,19 @@
 - [Cloud Functions: Qwik Start - Console](https://www.qwiklabs.com/focuses/1763?parent=catalog)
 - [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog)
 
+
+## Day 10: Oct 10, 2020
+
+**Today's Progress**:
+- Publish and consume messages with a pull subscriber
+- Google Cloud Pub/Sub
+- Earned the #2 Skill Badge - Perform Foundational Infrastructure Tasks in Google Cloud
+  
+**Links**
+- [Google Cloud Pub/Sub: Qwik Start - Console](https://www.qwiklabs.com/focuses/3719?parent=catalog)
+- [Perform Foundational Infrastructure Tasks in Google Cloud Skill Badge](https://www.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
+
+
 ## Contents
 
 * [Readme](README.md)
