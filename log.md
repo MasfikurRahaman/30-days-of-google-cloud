@@ -146,6 +146,19 @@
 - [Perform Foundational Infrastructure Tasks in Google Cloud Skill Badge](https://www.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
 
 
+## Day 11: Oct 11, 2020
+
+**Today's Progress**:
+- Reviewed few old concept
+  - Cloud IAM and its Policies
+  - cloud Monitoring and Uses
+- Introduction to SQL in GCP
+- How to run structured queries on BigQuery and Cloud SQL
+  
+**Links**
+- [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
