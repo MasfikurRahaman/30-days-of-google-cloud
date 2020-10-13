@@ -159,6 +159,18 @@
 - [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog)
 
 
+## Day 12: Oct 12, 2020
+
+**Today's Progress**:
+- Multiple VPC Networks
+  - Checking for connectivy across networks
+  - Firewall access
+- Cloud Monitoring: Advanced
+  
+**Links**
+-[Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)
+-[Cloud Monitoring](https://www.qwiklabs.com/focuses/10599?parent=catalog)
+
 ## Contents
 
 * [Readme](README.md)
