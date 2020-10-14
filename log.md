@@ -171,6 +171,18 @@
 -[Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)
 -[Cloud Monitoring](https://www.qwiklabs.com/focuses/10599?parent=catalog)
 
+
+## Day 13: Oct 13, 2020
+
+**Today's Progress**:
+- Deployment Manager - Full Production
+  - Black Box Monitoring
+  - Uptime trigger and notification
+  
+**Links**
+-[Deployment Manager - Full Production](https://www.qwiklabs.com/focuses/981?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
