@@ -183,6 +183,18 @@
 -[Deployment Manager - Full Production](https://www.qwiklabs.com/focuses/981?parent=catalog)
 
 
+## Day 14: Oct 14, 2020
+
+**Today's Progress**:
+- Multiple deployments to manage application deployment scenarios Using Kubernetes Engine
+- Scaling and managing Containers
+- Multiple Heterogeneous Deployment
+
+  
+**Links**
+- [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
