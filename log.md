@@ -190,9 +190,19 @@
 - Scaling and managing Containers
 - Multiple Heterogeneous Deployment
 
-  
 **Links**
 - [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog)
+
+
+## Day 15: Oct 15, 2020
+
+**Today's Progress**:
+- Practised Setting up and Configuring Cloud Lab
+- WordPress Server Deployment in GCP
+- Intergration with Kubernetes Cluster
+  
+**Links**
+- [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119)
 
 
 ## Contents
