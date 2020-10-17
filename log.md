@@ -205,6 +205,16 @@
 - [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119)
 
 
+## Day 16: Oct 16, 2020
+
+**Today's Progress**:
+- Set up and Configure a Cloud Environment in Google Cloud
+- Earned #3 Skill Badge - Set up and Configure a Cloud Environment in Google Cloud
+  
+**Links**
+- [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
+
+
 ## Contents
 
 * [Readme](README.md)
