@@ -215,6 +215,18 @@
 - [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/public_profiles/9d0d58f7-9d65-47d4-8126-631bf3f7f149)
 
 
+## Day 17: Oct 17,2020
+
+**Today's Progress**:
+- Google Container Engine
+- Manage Docker Containers using kubectl
+- break an application into microservices using Kubernetes’ Deployments and Services.
+  
+**Links**
+- [Orchestrating the Cloud with Kubernetes](https://google.qwiklabs.com/focuses/557?parent=catalog)
+
+
+
 ## Contents
 
 * [Readme](README.md)
