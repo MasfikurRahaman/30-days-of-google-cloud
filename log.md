@@ -249,6 +249,16 @@
 - [Site Reliability Troubleshooting with Cloud Monitoring APM](https://google.qwiklabs.com/focuses/4186?parent=catalog)
 
 
+## Day 20: Oct 20, 2020
+
+**Today's Progress**:
+- Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
+- Earned #4 Skill Badge - Deploy and Manage Cloud Environments with Google Cloud
+  
+**Links**
+- [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab(https://google.qwiklabs.com/focuses/10417?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
