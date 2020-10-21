@@ -236,6 +236,19 @@
 - [Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine](https://www.qwiklabs.com/focuses/552?parent=catalog)
 
 
+## Day 19: Oct 19, 2020
+
+**Today's Progress**:
+- Refresher on Multiple VPC networks
+- Cloud Monitoring APM
+  - GKE Cluster infrastructure
+  - lstio commnands
+
+**Links**
+- [Multiple VPC Networks](https://google.qwiklabs.com/focuses/1230?parent=catalog)
+- [Site Reliability Troubleshooting with Cloud Monitoring APM](https://google.qwiklabs.com/focuses/4186?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
