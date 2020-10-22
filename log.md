@@ -259,6 +259,18 @@
 - [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab(https://google.qwiklabs.com/focuses/10417?parent=catalog)
 
 
+## Day 21: Oct 21, 2020
+
+**Today's Progress**:
+- Introduction to Docker
+- Refresher on Kubernetes Engine
+- Orchestrating and Managing Deployments Using Kubernetes Engine
+  
+**Links**
+- [Introduction to Docker](https://google.qwiklabs.com/focuses/1029?parent=catalog)
+- [Managing Deployments Using Kubernetes Engine](https://google.qwiklabs.com/focuses/639?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
