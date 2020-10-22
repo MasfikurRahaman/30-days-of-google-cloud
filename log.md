@@ -256,7 +256,7 @@
 - Earned #4 Skill Badge - Deploy and Manage Cloud Environments with Google Cloud
   
 **Links**
-- [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab(https://google.qwiklabs.com/focuses/10417?parent=catalog)
+- [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10417?parent=catalog)
 
 
 ## Day 21: Oct 21, 2020
@@ -270,6 +270,15 @@
 - [Introduction to Docker](https://google.qwiklabs.com/focuses/1029?parent=catalog)
 - [Managing Deployments Using Kubernetes Engine](https://google.qwiklabs.com/focuses/639?parent=catalog)
 
+
+## Day 22: Oct 22, 2020
+
+**Today's Progress**:
+- Continuous Delivery Pipeline
+- Jenkins on Kubernetes Engine
+  
+**Links**
+- [Continuous Delivery with Jenkins in Kubernetes Engine](https://www.qwiklabs.com/focuses/1104?parent=catalog)
 
 ## Contents
 
