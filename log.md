@@ -280,6 +280,17 @@
 **Links**
 - [Continuous Delivery with Jenkins in Kubernetes Engine](https://www.qwiklabs.com/focuses/1104?parent=catalog)
 
+
+## Day 23: Oct 23, 2020
+
+**Today's Progress**:
+- Deploy to Kubernetes in Google Cloud: Challenge Lab
+- Earned #5 Skill Badge - Deploy to Kubernetes in Google Cloud
+  
+**Links**
+- [Deploy to Kubernetes in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10457?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
