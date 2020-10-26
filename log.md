@@ -291,6 +291,16 @@
 - [Deploy to Kubernetes in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10457?parent=catalog)
 
 
+## Day 24: Oct 24, 2020
+
+**Today's Progress**:
+- External HTTP Access to web servers
+- Firewall rules and IAM roles
+
+**Links**
+- [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog)
+
+
 ## Contents
 
 * [Readme](README.md)
