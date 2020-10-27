@@ -301,6 +301,17 @@
 - [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog)
 
 
+## Day 25: Oct 25, 2020
+
+**Today's Progress**:
+- HTTP Load balancer with global backend
+- Stress testing the Load balancer with Cloud Armor
+
+**Links**
+- [HTTP Load Balancer with Cloud Armor](https://www.qwiklabs.com/focuses/1232?parent=catalog)
+
+
+
 ## Contents
 
 * [Readme](README.md)
