@@ -311,7 +311,7 @@
 - [HTTP Load Balancer with Cloud Armor](https://www.qwiklabs.com/focuses/1232?parent=catalog)
 
 
-## Day 25: Oct 25, 2020
+## Day 26: Oct 26, 2020
 
 **Today's Progress**:
 - Internal Load Balancer
