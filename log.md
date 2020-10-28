@@ -311,6 +311,17 @@
 - [HTTP Load Balancer with Cloud Armor](https://www.qwiklabs.com/focuses/1232?parent=catalog)
 
 
+## Day 25: Oct 25, 2020
+
+**Today's Progress**:
+- Internal Load Balancer
+- Health checking the Load Balancer
+- Handling Instance Groups in backend
+
+**Links**
+- [Create an Internal Load Balancer](https://www.qwiklabs.com/focuses/1250?parent=catalog)
+
+
 
 ## Contents
 
