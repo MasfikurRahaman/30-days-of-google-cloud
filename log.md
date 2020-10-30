@@ -322,6 +322,16 @@
 - [Create an Internal Load Balancer](https://www.qwiklabs.com/focuses/1250?parent=catalog)
 
 
+## Day 27: Oct 27, 2020
+
+**Today's Progress**:
+- Restrict access and resources to selected users using Identity-Aware Proxy
+- Retrieve User Identity Information from IAP.
+
+**Links**
+- [User Authentication: Identity-Aware Proxy](https://www.qwiklabs.com/focuses/5562?parent=catalog)
+
+
 
 ## Contents
 
