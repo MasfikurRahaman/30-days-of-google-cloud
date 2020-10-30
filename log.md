@@ -332,6 +332,30 @@
 - [User Authentication: Identity-Aware Proxy](https://www.qwiklabs.com/focuses/5562?parent=catalog)
 
 
+## Day 28: Oct 28, 2020
+
+**Today's Progress**:
+- Learned to create Voice Apps for Google Assistant
+- Using DialogFlow and Google Cloud
+
+
+## Day 29: Oct 29, 2020
+
+**Today's Progress**:
+- Created a Jokes App in my Local Google Assistant
+- Using Dialogflow and Storing Data using Google Cloud
+
+## Day 30: Oct 30, 2020
+
+**Today's Progres**:
+- Securing remote SSH Access via IAP-enables bastion
+- Implementation and Testing of Firewall Rules
+- Earned #6 Skill Badge - Build and Secure Networks in Google Cloud
+
+**Links**
+- [Build and Secure Networks in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/12068?parent=catalog)
+
+
 
 ## Contents
 
